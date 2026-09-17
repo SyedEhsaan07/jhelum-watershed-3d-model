@@ -1,0 +1,19 @@
+# R session artifacts
+.Rhistory
+.RData
+.Rproj.user/
+
+# Downloaded data and caches
+/data/raw/
+/data/cache/
+/data/processed/
+/logs/
+/output/
+
+# Temporary files
+*.tmp
+*.log
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
